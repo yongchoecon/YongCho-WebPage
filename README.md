@@ -85,3 +85,13 @@ When updating content:
     ├── CHO_JMP_2026.pdf
     └── Optimal_Supply_of_Government_Debt.pdf
 ```
+
+## Mobile page ordering
+
+On screens up to 720px wide:
+
+- **Home (`index.html`)** keeps the profile/sidebar first.
+- **Research (`research.html`)** shows the Research content first, then the profile/sidebar.
+- **CV (`cv.html`)** shows the CV content first, then the profile/sidebar.
+
+The desktop layout is unchanged: the profile/sidebar remains in the left column on every page.
